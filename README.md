@@ -11,3 +11,7 @@ pacman -S wxgtk wxgtk2.8
 ```
 
 Then just use `make`.
+
+## Screenshot
+
+![screenshot](https://raw.githubusercontent.com/emmmile/billiards/master/screenshot.png)
